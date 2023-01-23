@@ -1,4 +1,5 @@
 ﻿using System;
+using UnitTestingExercise;
 
 namespace UnitTestingExercise
 {
@@ -6,7 +7,8 @@ namespace UnitTestingExercise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+
         }
     }
 }
